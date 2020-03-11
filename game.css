@@ -1,0 +1,25 @@
+.container{
+    border:1px solid purple;
+    margin:0 auto;
+    width:75%;
+    text-align:center;
+    border-radius: 10px;
+    background: coral;
+}
+#submit-guess{
+    padding:20px;
+    margin-bottom:20px;
+    background: gray;
+}
+.guess{
+    padding:10px 20px 10px 20px;
+}
+h2{
+    color:blueviolet;
+}
+h1{
+    color:green;
+}
+.guessWrite{
+    margin:100px;
+}
